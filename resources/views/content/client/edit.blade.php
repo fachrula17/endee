@@ -56,7 +56,7 @@
                     </div>
                     <div class="form-group">
                         <input type="submit" name="submit" value="Save" class="btn btn-primary">
-                    </div>
+                    </div> 
                 </form>
             </div>
         </div>
